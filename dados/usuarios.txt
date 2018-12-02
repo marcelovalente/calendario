@@ -1,0 +1,3 @@
+﻿1;admin;1;admin;00000000;admin@admin.com
+67;Puc123;2;Maria da Silva;01011901;maira@mai.com
+384733;38jui983aA;1;bruna carolina;12121995;brucarol.1295@gmail.com
